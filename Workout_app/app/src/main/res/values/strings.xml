@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Workout_app</string>
+    <string name="Logintxt">Are you have an account?<font color="#fd511e">Singin</font></string>
+</resources>
